@@ -1,42 +1,81 @@
-# Portfolio Blog Starter
+![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
-This is a porfolio site template complete with a blog. Includes:
+### Live - https://react-portfolio-template.netlify.app/
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
 
-## Demo
+### Tutorials
 
-https://portfolio-blog-starter.vercel.app
+Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
 
-## How to Use
+Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
-You can choose from one of the following two methods to use this repository:
+Repo - https://github.com/chetanverma16/react-portfolio-template
 
-### One-Click Deploy
+### Features - 
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+- Modern Stack (Next.js + TailwindCSS)
+- Minimal Design
+- Easy To Browse
+- Easy To Customize your details With GUI
+- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
+- Dark Mode
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
 
-### Clone and Deploy
+### Sections
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+- Header
+- Work
+- Services
+- About
+- Contact
+- Markdown Blog
 
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
 
-Then, run Next.js in development mode:
+### How To Use
 
-```bash
-pnpm dev
-```
+- Clone this repo
+- run `yarn`
+- `yarn dev`
 
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+
+### How To Deploy - 
+
+- There are many ways to Deploy this repo.
+- here we are gonna use netlify
+- Login into netlify with github
+- after login select the forked repo or the repo you want to deploy
+- after selecting netlify will automatially deploy your website.
+
+Quickes way to deploy this repo - 
+
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+
+
+### How To Contribute - 
+
+I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
+
+
+### Tech Stack Used - 
+- Next.js
+- TailwindCSS
+
+
+### Thanks
+
+If you liked this portfolio template, don't forget to give it a ⭐.
+
+## Awesome Contributors
+[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
+
+## Supporting
+Many hours of hard work have gone into this project. Your support will be very appreciated!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
+
+
+
+
+
+
